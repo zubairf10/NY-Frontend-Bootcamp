@@ -1,0 +1,11 @@
+.font-family-size{
+text-align: center;
+}
+.text-shadow{
+    text-shadow: 2px 2px 10px rgba(224, 3, 3, 0.5);
+   
+}
+.italic{
+    font-style: italic;
+    text-decoration: underline;
+}

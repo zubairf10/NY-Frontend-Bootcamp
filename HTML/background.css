@@ -1,0 +1,28 @@
+.color-example{
+    background-color: black;
+    color: aliceblue;
+}
+.background-example{
+    background-color: aquamarine;
+}
+.background-position-example{
+    background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg") ;
+    background-position: top center;
+    background-repeat: round;
+    background-size: cover;
+}
+
+.opacity-example{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.image-example{
+    display: block;
+   margin: 50px 10px;
+
+}
+
+.image-sizing-example{
+    width: 200px;
+    height: auto;
+}

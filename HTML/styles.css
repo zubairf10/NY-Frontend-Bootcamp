@@ -1,0 +1,37 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span{
+background-color: aquamarine;
+}
+
+.listclass{
+    background-color: greenyellow;
+}
+
+li[value="list"]{
+    background-color: blanchedalmond;
+}
+
+#list2{
+    background-color: aqua;
+}
+
+/* Pseudo Class */
+.hoverBtn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.activeBtn:active{
+    background-color: darkgray;
+    color: black;
+}
+.focusInput:focus{
+    background-color: chartreuse;
+    border-width: 5px;
+}
+.visitedLink:visited{
+    color: deeppink;
+}
